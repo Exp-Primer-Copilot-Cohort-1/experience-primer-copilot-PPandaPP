@@ -1,4 +1,4 @@
-// create web server
+// Create Web Server
 // 1. load the http module
 var http = require('http');
 var url = require('url');
